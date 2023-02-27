@@ -59,9 +59,11 @@ body {
 .square {
   background: #fff;
   border: 1px solid #999;
+  color: pink;
   float: left;
   font-size: 24px;
   font-weight: bold;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   line-height: 34px;
   height: 34px;
   margin-right: -1px;
