@@ -88,3 +88,8 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.status {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: red;
+}
